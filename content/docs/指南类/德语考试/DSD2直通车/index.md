@@ -24,7 +24,7 @@ tags:
 ​有相关兴趣的可联系我的邮箱：luthwig@outlook.com，或者通过博客右侧的邮件。
 
 <p align='right'>2025年4月4日</p>  
-<p align='right'>张天力</p>
+<p align='right'>Ti.Zhang</p>
 
 ------
 
@@ -369,7 +369,7 @@ https://www.lmu.de/de/studium/internationale-vollzeit-studierende/immatrikulatio
 再最后，也希望我能学出物理学，成为熟练掌握各项元素的自然法师。
 
 <p align='right'>2024年9月2日</p>  
-<p align='right'>张天力</p>
+<p align='right'>Ti.Zhang</p>
 
 
 
