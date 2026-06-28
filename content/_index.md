@@ -4,17 +4,15 @@ layout: landing
 
 <div class="book-hero">
 
-# Documentation {anchor=false}
-This content is rendered from `content/index.md`
+# 冬夏 {anchor=false}
 
-{{<button href="/docs/">}}Action{{</button>}}
+这个网站可以说是我的个人博客，其实也就是发发牢骚的地方罢了，你可以看到我之前写过的所有内容。只要我没忘记续域名，这个网站应该就不会消失。
+
+{{<button href="/docs/">}}从这里开始{{</button>}}
 
 </div>
 
 {{% columns %}}
-- ## Nunc infans rigidique etiam
-  Lorem markdownum quondam mediamque visis aevi, peregrinaeque Aeacidae, vita vos? Iacet exhortatus picta plures; placet Pandrose tremescere; mediis aera enim resonat scinditur dea nocuit fabrilis est per. Signum pater paventes pectore maris humo, aegide illos religarat si! Romana secutis erat, cum omnia vincere virtutem nomine ascensu poenas? Gradus cum quoque potitur.
-
-- ## Carmina fallacia polluit lenta
-  Lorem markdownum, omnes exire lumen noctis concava multaque fieri inplevere oculi *nisi sua* subigebat iamque? Herse sum `hardBox`, pervenit linguae altera. Clymenen magna illi latera parent omnia felicia ter bifurcum nulla atque alta cannas ita? Pariter stetit carina adspexerit spargentem festa concrevit `process_upnp` primos! Huic et sulphure paelice iuppiter vitat quem genitas, fera vertice relinque.
-{{% /columns %}}
+- ## 这里有什么
+  目前主要是三块：**德语考试**，包括 DSD II 和 B1 证书的应试经验；**慕尼黑生活**，从落地初期办银行卡、电话卡，到落户、延签、租房退押金的全套流程；**日常分享**，简单分享点好玩的事情，包括好吃的饭店等。内容会带点私货和吐槽，但该说清楚的步骤还是会尽可能的清晰。如果它能帮你少跑一趟弯路，那就最好了。左边目录任君翻，祝在德国一切顺利。
+  {{% /columns %}}

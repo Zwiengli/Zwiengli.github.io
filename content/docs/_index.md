@@ -1,44 +1,16 @@
-# Vir nidis Phrygiae ambarum
+---
+title: "留德笔记"
+type: docs
+---
 
-## Moenia alis vendit inquit
+# 留德笔记
 
-Lorem markdownum Cauno eburno pectore matremque animal illae positoris refert
-nectaris. Quod cecidere timido, fudit, dura urnam tuos; **iubis**. Ea concepit
-gravem quod *est vides* mariti minus, de curva inter, **Maeonias licet**, tum.
-Duobus mentis portentificisque crescit nutricisque tenax? *Nec digiti* crescunt
-Neve!
+我所记录的，在慕尼黑的点点滴滴。请在左侧选择章节。
 
-1. Cultus vitamque egerere nutrit procis caecae et
-2. Infelix non
-3. Sperchios fuit quod pharetra verborum
-4. Quicquam cum haec bona
-5. Nubila Finierat
-6. Quod nec exequialia
+## 写在所有写在之前的之前。
 
-## Miserere murmura riguisse
+你好，我是张天力，24/25WS入学慕尼黑大学，目前在读物理学。若想联系我，请通过此邮箱：luthwig@outlook.com
+在写下第一句话前很难想象，我的三分热度耐心居然能坚持到今天；从一开始的一段微信对话，到一个完善的PDF，再到上一版网站。统共也有了几万字罢。
 
-Substiterat deponunt dentes. Nec estque volant, mendacia iubent, et merui terram
-Cerealis ipso quoque fronte; erat suco.
+在我初二时掀起了新冠疫情；高二时发生了俄乌战争；大二时又有了美伊战争。好像一切都和二这个数字过不去，我已经开始期待研二的样子了。就在我写下这句话的当周内，第一例埃博拉病毒在欧洲被发现、德国铁路全国瘫痪、纳粹主义者在慕尼黑与LGBTQI+公开游街对抗示威。这些在国内都是不曾想象过的吧。
 
-- Tuas sine
-- Quem frigore tibi
-- Nec partim est excussum domos est
-- Corde Apolline poma rerum generis promissae
-
-## Ultime divellere
-
-Sub robustior `portal_jfs_application` Argolicosque inposuit fecit. Mihi est
-relinquit tollere digni Mater requiemque Ceycis, die potes, se sic genetrix
-Pelasgas **arceat** sonanti colles.
-
-Deus magno, senatus dicimus urguere Cerealia; pictae illum, progenies et [ultima
-tempora](#ultime-divellere) fovet, nec. Arcana urbem: iacentis: ficta qui
-incursu fides et sati nec omnia ego Laetitia potura troades. Responsa subdit,
-pronepos coactus **Nycteliusque** licet se sepulcro tenus Pelasgae odoribus
-**absensauxilium**.
-
-Loquar est obvertit: ubi: non possit pulsa: mihi. Nam irascere tellus! In
-rostro, dea rutilis, in gutture ulla publica minaces fuissem tristi et. Putes
-Cyclopum bello pericula vides Anguemque, sanctaque pia gaudent. Induiturque
-atria, dentibus virque *parabant lacrimis*, motus, sidere sorores pereunt
-pharetramque nocte et subde medio.
